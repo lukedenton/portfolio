@@ -1,4 +1,4 @@
-#Chrome Extensions
+# Chrome Extensions
 
 Below is a list of the extensions that I've created for the Google Chrome web browser. Under each heading, I'll provide
 some information on why I created the extension, and then some of the main features, as well as a link to the
@@ -8,7 +8,7 @@ extension on the Chrome Web Store
 2. Assembla++
 3. Google Services Launcher
 
-##Slack++
+## Slack++
 This extension was initially created to add a copy button to text that is formatted using a single or tripple
 backticks in slack. I use Slack at work everyday, and one of the very common uses is sharing code
 snippets between developers. Code snippets at my workplace is almost exclusively posted using single
@@ -20,7 +20,7 @@ nothing for the part where the actual messages are posted - and the part that is
 
 [Slack++ in the Chrome Web Store](​https://chrome.google.com/webstore/detail/slack%20%20/afmljfkhgiljmbopodcjdnkgmdmnhbpk)
 
-##Assembla++
+## Assembla++
 As Assembla is the issue tracker of choice at work, I had to write an extension to make it a at least a
 little bit more usable. The first thing I added was the ability to click and drag the card wall.
 
@@ -36,7 +36,7 @@ other miscellaneous information, leaving just comments.
 
 [Assembla++ on the Chrome Web Store](https://chrome.google.com/webstore/detail/assembla%20%20/amldmpeaminclbioeknmlaiefgcmjdla)
 
-##Google Services Launcher
+## Google Services Launcher
 This was the first Chrome extension that I wrote. It's very simple in that it adds a button to the extensions panel that,
 when clicked, displays all of the Google services. This is exactly the same as the 9-dot grid button that is shown
 on most Google sites allowing a user to quickly change between the Google service they're using. I use many Google

@@ -1,4 +1,4 @@
-#Just For Fun
+# Just For Fun
 These are small projects that I've worked on, basically, just for fun. I either wanted to learn how to use a new technology,
 figure out a way to implement UX from another website, or just solve a game!
 
@@ -6,11 +6,11 @@ figure out a way to implement UX from another website, or just solve a game!
 2. Elevator Saga
 3. Google Music Header - JSFiddle
 
-##Keep Talking Solver
+## Keep Talking Solver
 _To be completed_
 
 
-##Elevator Saga
+## Elevator Saga
 
 [Elevator Saga](http://play.elevatorsaga.com) is a neat Javascript programming game that I found online. Basically you have to write the logic for
 an elevator (and then eventually a set of elevators) to move between floors, picking up people and dropping them off.
@@ -21,7 +21,7 @@ necessarily on the very first go, sometimes it depends on the input, i.e. when a
 
 [ElevatorSaga Solution on GitHub](https://github.com/denno020/elevatorsaga)
 
-##Google Music Header
+## Google Music Header
 I recently signed up with Google Music for streaming music, and when looking through the site and the various music
 available, I noticed what I thought to be a very neat UX for displaying a large artist image. I wanted to try
 and replicate this UX, so I tried it out in JSFiddle.
