@@ -48,23 +48,3 @@ I designed the website, as well as the logo, in collaboration with the client. U
 the design and development of the website, which is disappointing for me because I'm very proud of the work I had done.
 
 [Fresh Rejuvenations](http://freshrejuvenations.github.io/site/)
-
-## Other
-
-Around 10 years ago, I designed and developed 2 other websites, however they have since been updated and changed, so I
-can't link to a version of them, because it's not the work that I did.
-
-### Willunga Environment Centre
-
-From memory, I created the site for the centre using Dreamweaver. The sites files were managed using FTP, and as part of
-creating the website, I taught one of the volunteers at the centre how to update the website. This meant writing
-code, and using the FTP client. The volunteer there only knew a little bit about computers, so I was very proud of myself
-for being able to teach them some basic HTML and FTP.
-
-### So You Think You Can Bowl (Ascot Park Bowls Club)
-
-This website was created for an event held at the Ascot Park Bowls Club. The client had come up with a design and provided
-it to me in a Microsoft Publisher file, so I replicated that as a web page/site. One of the big things that the site had to
- do was accept registration fees, so I was able to integrate the site with PayPal IPN so those payments could be accepted
- securely. The site was used for a couple of years, however it seems that the domain has since lapsed, as the URL no longer
- works.
