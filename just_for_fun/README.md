@@ -2,12 +2,17 @@
 These are small projects that I've worked on, basically, just for fun. I either wanted to learn how to use a new technology,
 figure out a way to implement UX from another website, or just solve a game!
 
-1. Keep Talking Solver
-2. Elevator Saga
-3. Google Music Header - JSFiddle
+**Table of Contents**
+1. [Keep Talking Solver](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#keeping-talking-solver)
+2. [Elevator Saga](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#elevator-saga)
+3. [Google Music Header - JSFiddle](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#google-music-header)
 
 ## Keep Talking Solver
-_To be completed_
+
+Keep Talking and Nobody Explodes is a very fun VR game. As a way to learn VueJS v2, I decided to create a "Keep Talking Solver".
+The title is a bit misleading as it doesn't really solve the puzzles, it just helps with solving them. It's kind of like
+having someone with a photographic memory on your team, who doesn't have to look at the defusal manual. The structure of
+most of the puzzles meant it was a perfect excuse to create something using a new technology.
 
 
 ## Elevator Saga

@@ -4,9 +4,10 @@ Below is a list of the extensions that I've created for the Google Chrome web br
 some information on why I created the extension, and then some of the main features, as well as a link to the
 extension on the Chrome Web Store
 
-1. Slack++
-2. Assembla++
-3. Google Services Launcher
+**Table of Contents**
+1. [Slack++](https://github.com/lukedenton/portfolio/tree/master/chrome_extensions#slack++)
+2. [Assembla++](https://github.com/lukedenton/portfolio/tree/master/chrome_extensions#assembla++)
+3. [Google Services Launcher](https://github.com/lukedenton/portfolio/tree/master/chrome_extensions#google-services-launcher)
 
 ## Slack++
 This extension was initially created to add a copy button to text that is formatted using a single or tripple
