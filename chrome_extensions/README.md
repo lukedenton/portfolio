@@ -47,5 +47,5 @@ Before creating it, I search around the Chrome store for something that already 
 extension that was practically exactly what I wanted to do, however it was very slow in showing the extension pop
 up window, taking 1-2 seconds to load all the services. That was far too long for me, so I created this extension,
 which shows the menu in under a second.
-
+ 
 [Google Services Launcher on the Chrome Web Store](https://chrome.google.com/webstore/detail/google-services-launcher/pgmbbgdogjfgbnlcnfeoelfanbgaehma)
