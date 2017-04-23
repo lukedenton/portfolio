@@ -19,7 +19,7 @@ A newer feature was adding a dark theme option for the site, as Slack doesn't of
 for the conversation part of the interface. There are customization options for the sidebar, but
 nothing for the part where the actual messages are posted - and the part that is mostly white!
 
-[Slack++ in the Chrome Web Store](​https://chrome.google.com/webstore/detail/slack%20%20/afmljfkhgiljmbopodcjdnkgmdmnhbpk)
+[Slack++ in the Chrome Web Store](https://chrome.google.com/webstore/detail/assembla%20%20/amldmpeaminclbioeknmlaiefgcmjdla)
 
 ## Assembla++
 As Assembla is the issue tracker of choice at work, I had to write an extension to make it a at least a
