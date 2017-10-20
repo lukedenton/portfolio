@@ -58,4 +58,4 @@ I built this online application because I had a few images that I needed to tran
 
 The code is open source, and can be found here [Bulk Pinner GitHub](https://github.com/bulkpinner/bulkpinner)
 
-[Bulk Pinner](https://bulkpinner.github.io/bulkpinner/)
+[Bulk Pinner](https://bulkpinner.github.io/site/)
