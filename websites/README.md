@@ -64,6 +64,6 @@ I figured I could create something better, because it would be simpler, not requ
 
 The source code is open under the GNU General Public License, so people are more than welcome to help contribute to making this application great, or simple learn from how I interacted with the Pinterest API
 
-Source code [Bulk Pinner GitHub](https://github.com/bulkpinner/bulkpinner)
+[Bulk Pinner GitHub (source code)](https://github.com/bulkpinner/bulkpinner)
 
-[Bulk Pinner](https://bulkpinner.github.io/site/)
+[Bulk Pinner site](https://bulkpinner.github.io/site/)
