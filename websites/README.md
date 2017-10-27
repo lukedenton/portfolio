@@ -54,8 +54,16 @@ the design and development of the website, which is disappointing for me because
 
 ## Bulk Pinner
 
-I built this online application because I had a few images that I needed to transfer to Pinterest. There are a couple of options online that allow you to schedule pins, but I couldn't get it to work properly, and they are a subscription based service, with limitations on the free tier. This application allows anyone to quickly upload multiple images to Pinterest without any sign up or any hassle.
+An application I made that allowed me to upload multiple pins to Pinterest at once.
 
-The code is open source, and can be found here [Bulk Pinner GitHub](https://github.com/bulkpinner/bulkpinner)
+I had a need to move a bunch of images from another service to Pinterest, but using the official website, you can only create 1 pin at a time. I had around 30 images that I wanted to move, so that was going to take a lot of time.
+
+Looking online for an existing tool that allowed you to bulk upload pins, I found one that is tailored to social media marketers, allowing them to schedule pins. I tried to use the free tier on that service to upload my images, but I couldn't get it to work. Also, I was only using the free tier, so there were limitations.
+
+I figured I could create something better, because it would be simpler, not require any account sign up, and allow people to add as many images to as many different boards as they wanted, at once.
+
+The source code is open under the GNU General Public License, so people are more than welcome to help contribute to making this application great, or simple learn from how I interacted with the Pinterest API
+
+Source code [Bulk Pinner GitHub](https://github.com/bulkpinner/bulkpinner)
 
 [Bulk Pinner](https://bulkpinner.github.io/site/)
