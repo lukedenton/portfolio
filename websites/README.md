@@ -5,10 +5,11 @@
 2. [Port Noarlunga Football Club](https://github.com/lukedenton/portfolio/tree/master/websites#port-noarlunga-football-club)
 3. [Fresh Rejuvenations](https://github.com/lukedenton/portfolio/tree/master/websites#fresh-rejuvenations)
  
-## Bek Bakes
+## Bek Bakes (and custom CMS)
 
-I've built this as a static website, leveraging HTML5 templates and custom Javascript to lazy load images. The gallery
-also has a custom built infinite loader.
+I've recently rebuilt this website to use VueJS, with a custom headless CMS. This means that the website is all client side,
+making use of API calls to get data dynamically. As part of the application, I've made use of Vuex to manage the state
+of the application.
 
 Another notable addition to the website is the spam filter. I've implemented a simple bait field that any normal user
 wouldn't see, however bots will see and will think it's a required field, so they will fill it in. Before allowing the
@@ -16,14 +17,13 @@ form to be submitted, this field is checked for a value. If a value is present i
 submission is abandoned. The label for the field has a note for people who use screen readers that should prevent them
 from filling in the field.
 
-The site will have a blog very soon, which will be managed using a custom built CMS. This CMS will also allow more images
-to be uploaded and the gallery to be managed from a separate server, meaning the site will have to access that data through
-API calls.
+The custom CMS, which I can't link here because you would only see a login page, allows Bek to upload new images (with
+thumbnails being automatically generated), re-order images, edit image names, as well as create and edit blog posts. The blog hasn't
+been implemented on the main website yet, that will be part of a stage 2 rollout.
 
-Along with developing the website, I designed it, and set up a whole social media presence ([Facebook page](https://www.facebook.com/BekBakesSA),
+Along with designing and developing the website, I've set up a whole social media presence, with a [Facebook page](https://www.facebook.com/BekBakesSA),
 [YouTube](https://www.youtube.com/channel/UCfDWd_I72C86Kk50TIjoH8g), [Pinterest](https://au.pinterest.com/bekbakes/)
-and [Instagram](https://www.instagram.com/bek_bakes/) accounts), which is not something I do a lot of, so I'm very happy
-with how it has all turned out
+and [Instagram](https://www.instagram.com/bek_bakes/) accounts
 
 [Bek Bakes](http://www.bekbakes.com)
 
