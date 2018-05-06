@@ -1,4 +1,4 @@
-# Chrome Extensions
+# Browser Extensions
 
 Below is a list of the extensions that I've created for the Google Chrome web browser. Under each heading, I'll provide
 some information on why I created the extension, and then some of the main features, as well as a link to the
