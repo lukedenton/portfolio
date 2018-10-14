@@ -66,4 +66,4 @@ The source code is open under the GNU General Public License, so people are more
 
 [Bulk Pinner GitHub (source code)](https://github.com/bulkpinner/bulkpinner)
 
-[Bulk Pinner site](https://bulkpinner.github.io/site/)
+[Bulk Pinner site](https://bulkpinner.app)
