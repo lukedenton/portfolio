@@ -5,6 +5,8 @@
 2. [Port Noarlunga Football Club](https://github.com/lukedenton/portfolio/tree/master/websites#port-noarlunga-football-club)
 3. [Fresh Rejuvenations](https://github.com/lukedenton/portfolio/tree/master/websites#fresh-rejuvenations)
 4. [Bulk Pinner](https://github.com/lukedenton/portfolio/tree/master/websites#bulk-pinner)
+5. [Luke Lights](https://github.com/lukedenton/portfolio/tree/master/websites#luke-lights)
+6. [Links List](https://github.com/lukedenton/portfolio/tree/master/websites#links-list)
  
 ## Bek Bakes (and custom CMS)
 
@@ -67,3 +69,21 @@ The source code is open under the GNU General Public License, so people are more
 [Bulk Pinner GitHub (source code)](https://github.com/bulkpinner/bulkpinner)
 
 [Bulk Pinner site](https://bulkpinner.app)
+
+## Luke Lights
+
+This is a mobile-first application I created that allowed people to control the Christmas lights on my house over the holiday season.
+
+It was build using Vue JS and Firebase, as a serverless application. Anything that would otherwise require a server was
+done using Firebase Cloud Functions.
+
+[Luke Lights](https://lukelights.app)
+
+## Links List 
+
+A simple online application that allows users to create a list of links that includes a link preview. The driving force behind
+creating this was the lack of ability to share a wish list of items on eBay.
+
+This application is build using the same approach as Luke Lights, Vue JS with Firebase as a serverless application.
+
+[Links List](https://linkslist.app)
