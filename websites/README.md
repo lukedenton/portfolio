@@ -1,14 +1,31 @@
 # Websites
 
 **Table of Contents**
-1. [Bek Bakes](https://github.com/lukedenton/portfolio/tree/master/websites#bek-bakes)
-2. [Port Noarlunga Football Club](https://github.com/lukedenton/portfolio/tree/master/websites#port-noarlunga-football-club)
-3. [Fresh Rejuvenations](https://github.com/lukedenton/portfolio/tree/master/websites#fresh-rejuvenations)
-4. [Bulk Pinner](https://github.com/lukedenton/portfolio/tree/master/websites#bulk-pinner)
-5. [Luke Lights](https://github.com/lukedenton/portfolio/tree/master/websites#luke-lights)
-6. [Links List](https://github.com/lukedenton/portfolio/tree/master/websites#links-list)
+1. [Luke Lights](https://github.com/lukedenton/portfolio/tree/master/websites#luke-lights)
+2. [Links List](https://github.com/lukedenton/portfolio/tree/master/websites#links-list)
+3. [Bek Bakes](https://github.com/lukedenton/portfolio/tree/master/websites#bek-bakes)
+4. [Calendar Icons Generator](https://github.com/lukedenton/portfolio/tree/master/websites#calendar-icons-generator)
+4. [Notion Image Generator](https://github.com/lukedenton/portfolio/tree/master/websites#notion-images)
+
+## Luke Lights
+
+This is a mobile-first application I created that allowed people to control the Christmas lights on my house over the holiday season.
+
+It was built using Vue JS and Firebase, as a serverless application. Anything that would otherwise require a server was
+done using Firebase Cloud Functions.
+
+[Luke Lights](https://lukelights.app)
+
+## Links List
+
+A simple online application that allows users to create a list of links that includes a link preview. The driving force behind
+creating this was the lack of ability to share a wish list of items on eBay.
+
+This application is build using the same approach as Luke Lights, Vue JS with Firebase as a serverless application.
+
+[Links List](https://linkslist.app)
  
-## Bek Bakes (and custom CMS)
+## Bek Bakes
 
 I've recently rebuilt this website to use VueJS, with a custom headless CMS. This means that the website is all client side,
 making use of API calls to get data dynamically. As part of the application, I've made use of Vuex to manage the state
@@ -28,62 +45,18 @@ Along with designing and developing the website, I've set up a whole social medi
 [YouTube](https://www.youtube.com/channel/UCfDWd_I72C86Kk50TIjoH8g), [Pinterest](https://au.pinterest.com/bekbakes/)
 and [Instagram](https://www.instagram.com/bek_bakes/) accounts
 
-[Bek Bakes](http://www.bekbakes.com)
+[Bek Bakes](http://www.bekbakes.com.au)
 
-## Port Noarlunga Football Club
+## Calendar Icons Generator
 
-I built this site using Flexible ORM and Smarty for server side templating. I created a custom CMS for adding/managing news and
-events. A lot of the design is based off Bootstrap, with very little custom design work.
+An application that allows people to design an icon, and then use that design to create 365 individual icons, one for 
+each day of the year, with specific day and date information for each month.
 
-The contact form on the site has a simple spam filter that has proven to be very effective. I simply ask the user to solve
-a basic math equation, which is then checked against the server stored solution before the form is allowed to be submitted.
+[Calendar Icons Generator](http://www.calendariconsgenerator.app)
 
-This site is due for a design update, possibly overhaul, in order to make it more usable, faster and visually appealing.
+## Notion Images
 
-[Port Noarlunga Football Club](http://www.pnfc.org.au)
+This app generates images of the perfect aspect ratio for Notion databases using the Gallery view. The image preview 
+displayed in the gallery view will take up the whole space, and not leave any blank space either side 
 
-## Fresh Rejuvenations
-
-This site has been built in a very similar way to the one for Bek Bakes. It is static, with HTML5 templating being used
-for custom image lazy loading. The images are stored on Cloudinary, and loaded after the page has finished downloading.
-
-As the site is static, I've been able to use GitHub pages for hosting, making it incredibly fast but also free for the client.
-
-I designed the website, as well as the logo, in collaboration with the client. Unfortunately we haven't got further than
-the design and development of the website, which is disappointing for me because I'm very proud of the work I had done.
-
-[Fresh Rejuvenations (staging site)](http://freshrejuvenations.github.io/site/)
-
-## Bulk Pinner
-
-An application I made that allowed me to upload multiple pins to Pinterest at once.
-
-I had a need to move a bunch of images from another service to Pinterest, but using the official website, you can only create 1 pin at a time. I had around 30 images that I wanted to move, so that was going to take a lot of time.
-
-Looking online for an existing tool that allowed you to bulk upload pins, I found one that is tailored to social media marketers, allowing them to schedule pins. I tried to use the free tier on that service to upload my images, but I couldn't get it to work. Also, I was only using the free tier, so there were limitations.
-
-I figured I could create something better, because it would be simpler, not require any account sign up, and allow people to add as many images to as many different boards as they wanted, at once.
-
-The source code is open under the GNU General Public License, so people are more than welcome to help contribute to making this application great, or simple learn from how I interacted with the Pinterest API
-
-[Bulk Pinner GitHub (source code)](https://github.com/bulkpinner/bulkpinner)
-
-[Bulk Pinner site](https://bulkpinner.app)
-
-## Luke Lights
-
-This is a mobile-first application I created that allowed people to control the Christmas lights on my house over the holiday season.
-
-It was build using Vue JS and Firebase, as a serverless application. Anything that would otherwise require a server was
-done using Firebase Cloud Functions.
-
-[Luke Lights](https://lukelights.app)
-
-## Links List 
-
-A simple online application that allows users to create a list of links that includes a link preview. The driving force behind
-creating this was the lack of ability to share a wish list of items on eBay.
-
-This application is build using the same approach as Luke Lights, Vue JS with Firebase as a serverless application.
-
-[Links List](https://linkslist.app)
+[Notion Image Generator](https://notionimages.netlify.app/)

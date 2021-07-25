@@ -3,9 +3,22 @@ These are small projects that I've worked on, basically, just for fun. I either 
 figure out a way to implement UX from another website, or just solve a game!
 
 **Table of Contents**
-1. [Keep Talking Solver](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#keeping-talking-solver)
-2. [Elevator Saga](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#elevator-saga)
-3. [Google Music Header - JSFiddle](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#google-music-header)
+1. [Cube Colouring Game](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#keeping-talking-solver)
+2. [Keep Talking Solver](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#keeping-talking-solver)
+3. [Elevator Saga](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#elevator-saga)
+4. [Google Music Header - JSFiddle](https://github.com/lukedenton/portfolio/tree/master/just_for_fun#google-music-header)
+
+## ThreeJS Colouring Game
+
+This game came about when I was browsing the examples on the ThreeJS demo page, and found this example of a cube made of spheres.
+When your mouse hovers over a sphere, it will change colour. I quickly found myself trying to colour in all of the spheres
+but found it hard to know when I was done.
+
+To create the game, I simply took the ThreeJS example, which is available on their demo page, and added a counter for how
+many spheres have been coloured, a timer to track how long it takes to colour in all the spheres, and then added some minor tweaks
+to the example code in order to track how many spheres where left to be coloured.
+
+[Cube Colouring Game](ubecolouringgame.netlify.app)
 
 ## Keep Talking Solver
 
